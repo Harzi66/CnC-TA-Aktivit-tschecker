@@ -4,6 +4,8 @@ Ein Aktivitätschecker für **Command & Conquer: Tiberium Alliances**.
 
 Das Script überwacht die Punkteentwicklung von Spielern einer ausgewählten Allianz und stellt die Aktivität übersichtlich in einem stundenbasierten Dashboard dar.
 
+![CnC-TA Aktivitätschecker - HE](Screenshot_1.png)
+
 ---
 
 ## Funktionen
