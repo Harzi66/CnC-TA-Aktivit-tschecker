@@ -5,8 +5,8 @@
 // @description    Aktivitätschecker – Dashboard mit stundenbasierter Aktivitätsmessung
 // @author         Harzi
 // @match          https://*.alliances.commandandconquer.com/*/index.aspx*
-// @updateURL      https://github.com/Harzi66/CnC-TA-Aktivitätschecker/raw/refs/heads/main/CnC-TA-Aktivitätschecker.user.js
-// @downloadURL    https://github.com/Harzi66/CnC-TA-Aktivitätschecker/raw/refs/heads/main/CnC-TA-Aktivitätschecker.user.js
+// @updateURL   https://github.com/Harzi66/CnC-TA-Aktivität-tschecker/raw/refs/heads/main/CnC-TA-Aktivitätschecker.user.js
+// @downloadURL https://github.com/Harzi66/CnC-TA-Aktivität-tschecker/raw/refs/heads/main/CnC-TA-Aktivitätschecker.user.js
 // @grant          GM_getValue
 // @grant          GM_setValue
 // ==/UserScript==
